@@ -4,9 +4,7 @@ Corporate & Commercial Law | M&A | Contract Drafting | International Arbitration
 
 ## About
 Law graduate (Ain Shams University, English Section) 
-
 currently pursuing an LL.M. in International Legal & Economic Transactions and Logistics at AASTMT. 
-
 Interested in corporate and commercial law, M&A, and cross-border transactions.
 
 ## What's in this repository
